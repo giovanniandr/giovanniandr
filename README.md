@@ -1,5 +1,5 @@
 <h1> Hello World, I am Gio 👋 </h1>
-<h3>I am a recent graduate student from a Honours Degree Computer Science @ CCT College Dublin who's looking for opportunities to enter the market.</h3>
+<h3>I am a recent graduate student from an Honours Degree Computer Science @ CCT College Dublin who's looking for opportunities to enter the market.</h3>
 
 <img src="https://i.postimg.cc/L69hZG6T/image.png" width="200" height="200" align="right">
 
