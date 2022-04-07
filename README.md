@@ -3,9 +3,9 @@
 
 <img src="https://i.postimg.cc/L69hZG6T/image.png" width="200" height="200" align="right">
 
-- 🔭 I’m currently looking for a position as Full Stack Developer
-- ⚡ I enjoy coding using HTML, Figma, .React, .Net, Python
-- 🌱 I'm currently learning deeply .React and .Net
+- 🔭 I’m currently looking for a position as Software Developer
+- ⚡ I enjoy coding using Node.Js, Figma, HTML, Python
+- 🌱 I'm currently learning .React and .Net
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
