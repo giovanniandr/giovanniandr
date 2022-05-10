@@ -7,7 +7,7 @@
 - ⚡ I enjoy coding using Node.Js, React, HTML, Django
 - 🌱 I'm currently relearning .Net
 
-<h3 align="left">Connect with me on LinkedIn below my picture </h3>
+<h3 align="left">Connect with me on LinkedIn :) </h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
