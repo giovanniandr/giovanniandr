@@ -4,8 +4,8 @@
 <img src="https://i.postimg.cc/L69hZG6T/image.png" width="200" height="200" align="right">
 
 - 🔭 I’m currently looking for a position as Software Developer
-- ⚡ I enjoy coding using Node.Js, Figma, HTML, Python
-- 🌱 I'm currently learning .React and .Net
+- ⚡ I enjoy coding using Node.Js, React, HTML, Django
+- 🌱 I'm currently relearning .Net
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
