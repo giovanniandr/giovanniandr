@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gio</h1>
-<h3 align="center">I am a recent graduate student from a Honours Degree Computer Science @ CCT College Dublin who's looking for opportunities to enter the market.</h3>
+<h1 align="left">Hi 👋, I'm Gio</h1>
+<h3 align="left">I am a Full Stack Developer at Beag. </h3>
 
 - 🔭 I’m currently working on [104](https://github.com/giovanniandr/104)
 
