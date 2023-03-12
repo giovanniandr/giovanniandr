@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [104](https://github.com/giovanniandr/104)
 
-- 👨‍💻 All of my projects are available at [Beag](beagsolutions.com)
+- 👨‍💻 All of my projects are available at [Beag](https://github.com/giovanniandr/beag)
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/giovanni-andrade-2151329b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/giovanni-andrade-2151329b/" height="30" width="40" /></a>
