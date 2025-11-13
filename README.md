@@ -1,1 +1,1 @@
-<h1>Hi 👋, I'm Gio</h1>
+<h1>Hi, I'm Gio</h1>
