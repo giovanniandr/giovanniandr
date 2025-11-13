@@ -1,9 +1,4 @@
 <h1>Hi 👋, I'm Gio</h1>
-<h3>A Full Stack Developer</h3>
-
-- 🔭 I’m currently working on [104](https://github.com/giovanniandr/104)
-
-- 👨‍💻 All my projects are available at [giodeveloper.vercelapp](giodeveloper.vercelapp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
